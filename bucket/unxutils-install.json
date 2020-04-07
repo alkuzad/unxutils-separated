@@ -13,6 +13,7 @@
     "install.exe",
     [
       "install.exe",
+      "linstall.exe",
       "linstall.exe"
     ]
   ]

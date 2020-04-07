@@ -13,6 +13,7 @@
     "mkdir.exe",
     [
       "mkdir.exe",
+      "lmkdir.exe",
       "lmkdir.exe"
     ]
   ]

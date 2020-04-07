@@ -13,6 +13,7 @@
     "sum.exe",
     [
       "sum.exe",
+      "lsum.exe",
       "lsum.exe"
     ]
   ]

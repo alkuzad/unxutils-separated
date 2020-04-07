@@ -13,6 +13,7 @@
     "tail.exe",
     [
       "tail.exe",
+      "ltail.exe",
       "ltail.exe"
     ]
   ]

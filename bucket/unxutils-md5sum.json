@@ -13,6 +13,7 @@
     "md5sum.exe",
     [
       "md5sum.exe",
+      "lmd5sum.exe",
       "lmd5sum.exe"
     ]
   ]

@@ -13,6 +13,7 @@
     "env.exe",
     [
       "env.exe",
+      "lenv.exe",
       "lenv.exe"
     ]
   ]

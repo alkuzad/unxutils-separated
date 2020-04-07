@@ -13,6 +13,7 @@
     "comm.exe",
     [
       "comm.exe",
+      "lcomm.exe",
       "lcomm.exe"
     ]
   ]

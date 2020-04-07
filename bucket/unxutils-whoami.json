@@ -13,6 +13,7 @@
     "whoami.exe",
     [
       "whoami.exe",
+      "lwhoami.exe",
       "lwhoami.exe"
     ]
   ]

@@ -13,6 +13,7 @@
     "tsort.exe",
     [
       "tsort.exe",
+      "ltsort.exe",
       "ltsort.exe"
     ]
   ]

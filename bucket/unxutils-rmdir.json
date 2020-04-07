@@ -13,6 +13,7 @@
     "rmdir.exe",
     [
       "rmdir.exe",
+      "lrmdir.exe",
       "lrmdir.exe"
     ]
   ]

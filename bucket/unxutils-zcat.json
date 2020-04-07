@@ -13,6 +13,7 @@
     "zcat.exe",
     [
       "zcat.exe",
+      "lzcat.exe",
       "lzcat.exe"
     ]
   ]

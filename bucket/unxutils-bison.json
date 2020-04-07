@@ -13,6 +13,7 @@
     "bison.exe",
     [
       "bison.exe",
+      "lbison.exe",
       "lbison.exe"
     ]
   ]

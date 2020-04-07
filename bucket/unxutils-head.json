@@ -13,6 +13,7 @@
     "head.exe",
     [
       "head.exe",
+      "lhead.exe",
       "lhead.exe"
     ]
   ]

@@ -13,6 +13,7 @@
     "indent.exe",
     [
       "indent.exe",
+      "lindent.exe",
       "lindent.exe"
     ]
   ]

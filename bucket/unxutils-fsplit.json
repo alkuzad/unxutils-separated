@@ -13,6 +13,7 @@
     "fsplit.exe",
     [
       "fsplit.exe",
+      "lfsplit.exe",
       "lfsplit.exe"
     ]
   ]

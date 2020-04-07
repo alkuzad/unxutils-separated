@@ -13,6 +13,7 @@
     "diff.exe",
     [
       "diff.exe",
+      "ldiff.exe",
       "ldiff.exe"
     ]
   ]

@@ -13,6 +13,7 @@
     "type.exe",
     [
       "type.exe",
+      "ltype.exe",
       "ltype.exe"
     ]
   ]

@@ -13,6 +13,7 @@
     "gsar.exe",
     [
       "gsar.exe",
+      "lgsar.exe",
       "lgsar.exe"
     ]
   ]

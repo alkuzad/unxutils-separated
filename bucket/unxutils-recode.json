@@ -13,6 +13,7 @@
     "recode.exe",
     [
       "recode.exe",
+      "lrecode.exe",
       "lrecode.exe"
     ]
   ]

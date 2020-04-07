@@ -13,6 +13,7 @@
     "gplay.exe",
     [
       "gplay.exe",
+      "lgplay.exe",
       "lgplay.exe"
     ]
   ]

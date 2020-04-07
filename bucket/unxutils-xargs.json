@@ -13,6 +13,7 @@
     "xargs.exe",
     [
       "xargs.exe",
+      "lxargs.exe",
       "lxargs.exe"
     ]
   ]

@@ -13,6 +13,7 @@
     "cp.exe",
     [
       "cp.exe",
+      "lcp.exe",
       "lcp.exe"
     ]
   ]

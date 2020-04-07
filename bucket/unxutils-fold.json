@@ -13,6 +13,7 @@
     "fold.exe",
     [
       "fold.exe",
+      "lfold.exe",
       "lfold.exe"
     ]
   ]

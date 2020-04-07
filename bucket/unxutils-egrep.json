@@ -13,6 +13,7 @@
     "egrep.exe",
     [
       "egrep.exe",
+      "legrep.exe",
       "legrep.exe"
     ]
   ]

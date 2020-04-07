@@ -13,6 +13,7 @@
     "makedepend.exe",
     [
       "makedepend.exe",
+      "lmakedepend.exe",
       "lmakedepend.exe"
     ]
   ]

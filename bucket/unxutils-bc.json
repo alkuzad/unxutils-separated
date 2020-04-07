@@ -13,6 +13,7 @@
     "bc.exe",
     [
       "bc.exe",
+      "lbc.exe",
       "lbc.exe"
     ]
   ]

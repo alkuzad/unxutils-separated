@@ -13,6 +13,7 @@
     "patch.exe",
     [
       "patch.exe",
+      "lpatch.exe",
       "lpatch.exe"
     ]
   ]

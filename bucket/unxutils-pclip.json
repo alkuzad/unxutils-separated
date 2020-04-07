@@ -13,6 +13,7 @@
     "pclip.exe",
     [
       "pclip.exe",
+      "lpclip.exe",
       "lpclip.exe"
     ]
   ]

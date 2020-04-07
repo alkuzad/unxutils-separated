@@ -13,6 +13,7 @@
     "gunzip.exe",
     [
       "gunzip.exe",
+      "lgunzip.exe",
       "lgunzip.exe"
     ]
   ]

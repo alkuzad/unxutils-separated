@@ -13,6 +13,7 @@
     "chown.exe",
     [
       "chown.exe",
+      "lchown.exe",
       "lchown.exe"
     ]
   ]

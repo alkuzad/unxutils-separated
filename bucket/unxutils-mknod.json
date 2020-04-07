@@ -13,6 +13,7 @@
     "mknod.exe",
     [
       "mknod.exe",
+      "lmknod.exe",
       "lmknod.exe"
     ]
   ]

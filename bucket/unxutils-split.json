@@ -13,6 +13,7 @@
     "split.exe",
     [
       "split.exe",
+      "lsplit.exe",
       "lsplit.exe"
     ]
   ]

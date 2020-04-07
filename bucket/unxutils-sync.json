@@ -13,6 +13,7 @@
     "sync.exe",
     [
       "sync.exe",
+      "lsync.exe",
       "lsync.exe"
     ]
   ]

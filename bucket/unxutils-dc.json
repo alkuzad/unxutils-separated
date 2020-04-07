@@ -13,6 +13,7 @@
     "dc.exe",
     [
       "dc.exe",
+      "ldc.exe",
       "ldc.exe"
     ]
   ]

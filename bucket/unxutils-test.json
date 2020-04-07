@@ -13,6 +13,7 @@
     "test.exe",
     [
       "test.exe",
+      "ltest.exe",
       "ltest.exe"
     ]
   ]
