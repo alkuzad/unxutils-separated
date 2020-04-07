@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\sed.exe",
-    "usr\\local\\wbin\\lsed.exe"
+    [
+      "sed.exe",
+      "lsed.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\du.exe",
-    "usr\\local\\wbin\\ldu.exe"
+    [
+      "du.exe",
+      "ldu.exe"
+    ]
   ]
 }

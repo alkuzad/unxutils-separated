@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\cp.exe",
-    "usr\\local\\wbin\\lcp.exe"
+    [
+      "cp.exe",
+      "lcp.exe"
+    ]
   ]
 }

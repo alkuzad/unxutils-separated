@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\bison.exe",
-    "usr\\local\\wbin\\lbison.exe"
+    [
+      "bison.exe",
+      "lbison.exe"
+    ]
   ]
 }

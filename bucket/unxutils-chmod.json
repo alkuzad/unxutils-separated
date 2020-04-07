@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\chmod.exe",
-    "usr\\local\\wbin\\lchmod.exe"
+    [
+      "chmod.exe",
+      "lchmod.exe"
+    ]
   ]
 }

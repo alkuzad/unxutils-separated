@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\make.exe",
-    "usr\\local\\wbin\\lmake.exe"
+    [
+      "make.exe",
+      "lmake.exe"
+    ]
   ]
 }

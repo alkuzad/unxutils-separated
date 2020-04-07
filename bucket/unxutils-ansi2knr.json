@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\ansi2knr.exe",
-    "usr\\local\\wbin\\lansi2knr.exe"
+    [
+      "ansi2knr.exe",
+      "lansi2knr.exe"
+    ]
   ]
 }

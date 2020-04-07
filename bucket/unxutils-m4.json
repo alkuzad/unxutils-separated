@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\m4.exe",
-    "usr\\local\\wbin\\lm4.exe"
+    [
+      "m4.exe",
+      "lm4.exe"
+    ]
   ]
 }

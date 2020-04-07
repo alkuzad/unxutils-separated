@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\shar.exe",
-    "usr\\local\\wbin\\lshar.exe"
+    [
+      "shar.exe",
+      "lshar.exe"
+    ]
   ]
 }

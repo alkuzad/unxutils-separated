@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\find.exe",
-    "usr\\local\\wbin\\lfind.exe"
+    [
+      "find.exe",
+      "lfind.exe"
+    ]
   ]
 }

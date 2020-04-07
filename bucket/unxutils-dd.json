@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\dd.exe",
-    "usr\\local\\wbin\\ldd.exe"
+    [
+      "dd.exe",
+      "ldd.exe"
+    ]
   ]
 }

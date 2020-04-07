@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\grep.exe",
-    "usr\\local\\wbin\\lgrep.exe"
+    [
+      "grep.exe",
+      "lgrep.exe"
+    ]
   ]
 }

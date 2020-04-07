@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\zsh.exe",
-    "usr\\local\\wbin\\lzsh.exe"
+    [
+      "zsh.exe",
+      "lzsh.exe"
+    ]
   ]
 }

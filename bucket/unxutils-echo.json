@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\echo.exe",
-    "usr\\local\\wbin\\lecho.exe"
+    [
+      "echo.exe",
+      "lecho.exe"
+    ]
   ]
 }

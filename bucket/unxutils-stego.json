@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\stego.exe",
-    "usr\\local\\wbin\\lstego.exe"
+    [
+      "stego.exe",
+      "lstego.exe"
+    ]
   ]
 }

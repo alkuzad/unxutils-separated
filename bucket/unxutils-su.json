@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\su.exe",
-    "usr\\local\\wbin\\lsu.exe"
+    [
+      "su.exe",
+      "lsu.exe"
+    ]
   ]
 }

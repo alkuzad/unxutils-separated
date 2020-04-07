@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\expr.exe",
-    "usr\\local\\wbin\\lexpr.exe"
+    [
+      "expr.exe",
+      "lexpr.exe"
+    ]
   ]
 }

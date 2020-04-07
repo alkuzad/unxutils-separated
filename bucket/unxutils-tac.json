@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\tac.exe",
-    "usr\\local\\wbin\\ltac.exe"
+    [
+      "tac.exe",
+      "ltac.exe"
+    ]
   ]
 }

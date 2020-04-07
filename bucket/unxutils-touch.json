@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\touch.exe",
-    "usr\\local\\wbin\\ltouch.exe"
+    [
+      "touch.exe",
+      "ltouch.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\gclip.exe",
-    "usr\\local\\wbin\\lgclip.exe"
+    [
+      "gclip.exe",
+      "lgclip.exe"
+    ]
   ]
 }

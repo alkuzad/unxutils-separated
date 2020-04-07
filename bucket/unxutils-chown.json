@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\chown.exe",
-    "usr\\local\\wbin\\lchown.exe"
+    [
+      "chown.exe",
+      "lchown.exe"
+    ]
   ]
 }

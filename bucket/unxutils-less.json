@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\less.exe",
-    "usr\\local\\wbin\\lless.exe"
+    [
+      "less.exe",
+      "lless.exe"
+    ]
   ]
 }

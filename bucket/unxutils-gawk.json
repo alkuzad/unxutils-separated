@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\gawk.exe",
-    "usr\\local\\wbin\\lgawk.exe"
+    [
+      "gawk.exe",
+      "lgawk.exe"
+    ]
   ]
 }

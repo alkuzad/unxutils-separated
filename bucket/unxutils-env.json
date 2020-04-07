@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\env.exe",
-    "usr\\local\\wbin\\lenv.exe"
+    [
+      "env.exe",
+      "lenv.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\printenv.exe",
-    "usr\\local\\wbin\\lprintenv.exe"
+    [
+      "printenv.exe",
+      "lprintenv.exe"
+    ]
   ]
 }

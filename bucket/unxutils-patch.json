@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\patch.exe",
-    "usr\\local\\wbin\\lpatch.exe"
+    [
+      "patch.exe",
+      "lpatch.exe"
+    ]
   ]
 }

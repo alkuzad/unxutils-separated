@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\pr.exe",
-    "usr\\local\\wbin\\lpr.exe"
+    [
+      "pr.exe",
+      "lpr.exe"
+    ]
   ]
 }

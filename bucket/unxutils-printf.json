@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\printf.exe",
-    "usr\\local\\wbin\\lprintf.exe"
+    [
+      "printf.exe",
+      "lprintf.exe"
+    ]
   ]
 }

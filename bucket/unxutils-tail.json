@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\tail.exe",
-    "usr\\local\\wbin\\ltail.exe"
+    [
+      "tail.exe",
+      "ltail.exe"
+    ]
   ]
 }

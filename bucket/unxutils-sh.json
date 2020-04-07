@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "bin\\sh.exe",
-    "bin\\lsh.exe"
+    [
+      "sh.exe",
+      "lsh.exe"
+    ]
   ]
 }

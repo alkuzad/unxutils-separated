@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\unshar.exe",
-    "usr\\local\\wbin\\lunshar.exe"
+    [
+      "unshar.exe",
+      "lunshar.exe"
+    ]
   ]
 }

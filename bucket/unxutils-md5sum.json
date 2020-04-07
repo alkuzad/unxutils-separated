@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\md5sum.exe",
-    "usr\\local\\wbin\\lmd5sum.exe"
+    [
+      "md5sum.exe",
+      "lmd5sum.exe"
+    ]
   ]
 }

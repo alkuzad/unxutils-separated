@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\chgrp.exe",
-    "usr\\local\\wbin\\lchgrp.exe"
+    [
+      "chgrp.exe",
+      "lchgrp.exe"
+    ]
   ]
 }

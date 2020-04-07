@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\wget.exe",
-    "usr\\local\\wbin\\lwget.exe"
+    [
+      "wget.exe",
+      "lwget.exe"
+    ]
   ]
 }

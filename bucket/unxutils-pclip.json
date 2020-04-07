@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\pclip.exe",
-    "usr\\local\\wbin\\lpclip.exe"
+    [
+      "pclip.exe",
+      "lpclip.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\cut.exe",
-    "usr\\local\\wbin\\lcut.exe"
+    [
+      "cut.exe",
+      "lcut.exe"
+    ]
   ]
 }

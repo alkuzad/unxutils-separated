@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\bunzip2.exe",
-    "usr\\local\\wbin\\lbunzip2.exe"
+    [
+      "bunzip2.exe",
+      "lbunzip2.exe"
+    ]
   ]
 }

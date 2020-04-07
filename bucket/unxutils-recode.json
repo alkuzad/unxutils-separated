@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\recode.exe",
-    "usr\\local\\wbin\\lrecode.exe"
+    [
+      "recode.exe",
+      "lrecode.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\cksum.exe",
-    "usr\\local\\wbin\\lcksum.exe"
+    [
+      "cksum.exe",
+      "lcksum.exe"
+    ]
   ]
 }

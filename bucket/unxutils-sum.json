@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\sum.exe",
-    "usr\\local\\wbin\\lsum.exe"
+    [
+      "sum.exe",
+      "lsum.exe"
+    ]
   ]
 }

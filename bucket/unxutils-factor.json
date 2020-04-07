@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\factor.exe",
-    "usr\\local\\wbin\\lfactor.exe"
+    [
+      "factor.exe",
+      "lfactor.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\which.exe",
-    "usr\\local\\wbin\\lwhich.exe"
+    [
+      "which.exe",
+      "lwhich.exe"
+    ]
   ]
 }

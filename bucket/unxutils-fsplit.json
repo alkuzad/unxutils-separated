@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\fsplit.exe",
-    "usr\\local\\wbin\\lfsplit.exe"
+    [
+      "fsplit.exe",
+      "lfsplit.exe"
+    ]
   ]
 }

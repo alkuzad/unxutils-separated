@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\df.exe",
-    "usr\\local\\wbin\\ldf.exe"
+    [
+      "df.exe",
+      "ldf.exe"
+    ]
   ]
 }

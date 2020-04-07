@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\xargs.exe",
-    "usr\\local\\wbin\\lxargs.exe"
+    [
+      "xargs.exe",
+      "lxargs.exe"
+    ]
   ]
 }

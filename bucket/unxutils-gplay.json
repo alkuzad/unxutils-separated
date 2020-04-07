@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\gplay.exe",
-    "usr\\local\\wbin\\lgplay.exe"
+    [
+      "gplay.exe",
+      "lgplay.exe"
+    ]
   ]
 }

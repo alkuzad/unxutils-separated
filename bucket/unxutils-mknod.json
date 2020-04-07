@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\mknod.exe",
-    "usr\\local\\wbin\\lmknod.exe"
+    [
+      "mknod.exe",
+      "lmknod.exe"
+    ]
   ]
 }

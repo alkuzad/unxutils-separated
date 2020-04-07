@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\date.exe",
-    "usr\\local\\wbin\\ldate.exe"
+    [
+      "date.exe",
+      "ldate.exe"
+    ]
   ]
 }

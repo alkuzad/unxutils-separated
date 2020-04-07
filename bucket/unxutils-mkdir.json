@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\mkdir.exe",
-    "usr\\local\\wbin\\lmkdir.exe"
+    [
+      "mkdir.exe",
+      "lmkdir.exe"
+    ]
   ]
 }

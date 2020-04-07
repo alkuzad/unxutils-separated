@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\sdiff.exe",
-    "usr\\local\\wbin\\lsdiff.exe"
+    [
+      "sdiff.exe",
+      "lsdiff.exe"
+    ]
   ]
 }

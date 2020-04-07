@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\join.exe",
-    "usr\\local\\wbin\\ljoin.exe"
+    [
+      "join.exe",
+      "ljoin.exe"
+    ]
   ]
 }

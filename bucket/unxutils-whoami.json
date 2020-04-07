@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\whoami.exe",
-    "usr\\local\\wbin\\lwhoami.exe"
+    [
+      "whoami.exe",
+      "lwhoami.exe"
+    ]
   ]
 }

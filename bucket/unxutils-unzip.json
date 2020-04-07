@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\unzip.exe",
-    "usr\\local\\wbin\\lunzip.exe"
+    [
+      "unzip.exe",
+      "lunzip.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\bzip2recover.exe",
-    "usr\\local\\wbin\\lbzip2recover.exe"
+    [
+      "bzip2recover.exe",
+      "lbzip2recover.exe"
+    ]
   ]
 }

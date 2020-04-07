@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\unexpand.exe",
-    "usr\\local\\wbin\\lunexpand.exe"
+    [
+      "unexpand.exe",
+      "lunexpand.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\zip.exe",
-    "usr\\local\\wbin\\lzip.exe"
+    [
+      "zip.exe",
+      "lzip.exe"
+    ]
   ]
 }

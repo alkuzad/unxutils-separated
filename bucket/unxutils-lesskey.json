@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\lesskey.exe",
-    "usr\\local\\wbin\\llesskey.exe"
+    [
+      "lesskey.exe",
+      "llesskey.exe"
+    ]
   ]
 }

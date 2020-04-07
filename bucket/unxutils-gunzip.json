@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\gunzip.exe",
-    "usr\\local\\wbin\\lgunzip.exe"
+    [
+      "gunzip.exe",
+      "lgunzip.exe"
+    ]
   ]
 }

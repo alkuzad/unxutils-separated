@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\fold.exe",
-    "usr\\local\\wbin\\lfold.exe"
+    [
+      "fold.exe",
+      "lfold.exe"
+    ]
   ]
 }

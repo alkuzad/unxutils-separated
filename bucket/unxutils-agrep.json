@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\agrep.exe",
-    "usr\\local\\wbin\\lagrep.exe"
+    [
+      "agrep.exe",
+      "lagrep.exe"
+    ]
   ]
 }

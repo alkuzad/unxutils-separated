@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\logname.exe",
-    "usr\\local\\wbin\\llogname.exe"
+    [
+      "logname.exe",
+      "llogname.exe"
+    ]
   ]
 }

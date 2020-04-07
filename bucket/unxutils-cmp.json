@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\cmp.exe",
-    "usr\\local\\wbin\\lcmp.exe"
+    [
+      "cmp.exe",
+      "lcmp.exe"
+    ]
   ]
 }

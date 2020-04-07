@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\tsort.exe",
-    "usr\\local\\wbin\\ltsort.exe"
+    [
+      "tsort.exe",
+      "ltsort.exe"
+    ]
   ]
 }

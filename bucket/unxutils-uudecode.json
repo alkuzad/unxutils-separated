@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\uudecode.exe",
-    "usr\\local\\wbin\\luudecode.exe"
+    [
+      "uudecode.exe",
+      "luudecode.exe"
+    ]
   ]
 }

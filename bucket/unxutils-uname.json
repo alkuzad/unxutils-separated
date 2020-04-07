@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\uname.exe",
-    "usr\\local\\wbin\\luname.exe"
+    [
+      "uname.exe",
+      "luname.exe"
+    ]
   ]
 }

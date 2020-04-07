@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\sleep.exe",
-    "usr\\local\\wbin\\lsleep.exe"
+    [
+      "sleep.exe",
+      "lsleep.exe"
+    ]
   ]
 }

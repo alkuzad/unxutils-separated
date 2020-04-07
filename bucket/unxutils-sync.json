@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\sync.exe",
-    "usr\\local\\wbin\\lsync.exe"
+    [
+      "sync.exe",
+      "lsync.exe"
+    ]
   ]
 }

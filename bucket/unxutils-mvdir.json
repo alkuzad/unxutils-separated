@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\mvdir.exe",
-    "usr\\local\\wbin\\lmvdir.exe"
+    [
+      "mvdir.exe",
+      "lmvdir.exe"
+    ]
   ]
 }

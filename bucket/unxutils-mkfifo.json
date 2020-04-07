@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\mkfifo.exe",
-    "usr\\local\\wbin\\lmkfifo.exe"
+    [
+      "mkfifo.exe",
+      "lmkfifo.exe"
+    ]
   ]
 }

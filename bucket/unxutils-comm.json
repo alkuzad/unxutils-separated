@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\comm.exe",
-    "usr\\local\\wbin\\lcomm.exe"
+    [
+      "comm.exe",
+      "lcomm.exe"
+    ]
   ]
 }

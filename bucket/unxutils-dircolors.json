@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\dircolors.exe",
-    "usr\\local\\wbin\\ldircolors.exe"
+    [
+      "dircolors.exe",
+      "ldircolors.exe"
+    ]
   ]
 }

@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\zcat.exe",
-    "usr\\local\\wbin\\lzcat.exe"
+    [
+      "zcat.exe",
+      "lzcat.exe"
+    ]
   ]
 }

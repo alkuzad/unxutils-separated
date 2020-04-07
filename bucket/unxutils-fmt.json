@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\fmt.exe",
-    "usr\\local\\wbin\\lfmt.exe"
+    [
+      "fmt.exe",
+      "lfmt.exe"
+    ]
   ]
 }

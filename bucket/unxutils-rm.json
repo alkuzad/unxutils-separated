@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\rm.exe",
-    "usr\\local\\wbin\\lrm.exe"
+    [
+      "rm.exe",
+      "lrm.exe"
+    ]
   ]
 }

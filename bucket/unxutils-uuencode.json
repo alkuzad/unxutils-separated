@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\uuencode.exe",
-    "usr\\local\\wbin\\luuencode.exe"
+    [
+      "uuencode.exe",
+      "luuencode.exe"
+    ]
   ]
 }

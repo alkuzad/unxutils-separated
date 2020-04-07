@@ -10,7 +10,9 @@
     "usr\\local\\wbin"
   ],
   "bin": [
-    "usr\\local\\wbin\\id.exe",
-    "usr\\local\\wbin\\lid.exe"
+    [
+      "id.exe",
+      "lid.exe"
+    ]
   ]
 }
