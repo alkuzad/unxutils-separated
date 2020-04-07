@@ -1,1 +1,16 @@
-{"version": "2007.03.01", "description": "GNU utilities for Win32.", "homepage": "http://unxutils.sourceforge.net/", "license": "GPL-3.0-or-later", "url": ["https://downloads.sourceforge.net/project/unxutils/unxutils/current/UnxUtils.zip", "http://unxutils.sourceforge.net/UnxUpdates.zip"], "hash": ["b8c694072723a417194022a2ba265750eec61e15d1725e39449df1763e224b45", "3f442b5d2a84cf112f3688ef21ab7cf8be0a905529e90fd33ec2370d3e263f80"], "extract_to": [".", "usr\\local\\wbin"], "bin": ["usr\\local\\wbin\\chown.exe", "usr\\local\\wbin\\lchown.exe"]}
+{
+  "version": "2007.03.01",
+  "description": "GNU utilities for Win32. - only chown.exe",
+  "homepage": "http://unxutils.sourceforge.net/",
+  "license": "GPL-3.0-or-later",
+  "url": "https://github.com/alkuzad/unxutils-separated/releases/download/$version/chown.exe",
+  "hash": "c5395a9c5f3ea0b1bcf4a4155d45c2b7f520b939d09ca69b7330b5deee9947b9",
+  "extract_to": [
+    ".",
+    "usr\\local\\wbin"
+  ],
+  "bin": [
+    "usr\\local\\wbin\\chown.exe",
+    "usr\\local\\wbin\\lchown.exe"
+  ]
+}
