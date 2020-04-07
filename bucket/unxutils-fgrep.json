@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "fgrep.exe",
     [
       "fgrep.exe",
       "lfgrep.exe"

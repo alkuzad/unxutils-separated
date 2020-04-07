@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "sha1sum.exe",
     [
       "sha1sum.exe",
       "lsha1sum.exe"

@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "compress.exe",
     [
       "compress.exe",
       "lcompress.exe"

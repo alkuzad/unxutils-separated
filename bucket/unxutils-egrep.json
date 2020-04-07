@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "egrep.exe",
     [
       "egrep.exe",
       "legrep.exe"

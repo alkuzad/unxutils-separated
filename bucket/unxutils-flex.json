@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "flex.exe",
     [
       "flex.exe",
       "lflex.exe"

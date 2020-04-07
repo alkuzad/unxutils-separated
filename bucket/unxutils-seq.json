@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "seq.exe",
     [
       "seq.exe",
       "lseq.exe"

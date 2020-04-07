@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "install.exe",
     [
       "install.exe",
       "linstall.exe"

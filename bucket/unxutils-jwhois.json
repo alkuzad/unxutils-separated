@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "jwhois.exe",
     [
       "jwhois.exe",
       "ljwhois.exe"

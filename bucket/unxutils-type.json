@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "type.exe",
     [
       "type.exe",
       "ltype.exe"

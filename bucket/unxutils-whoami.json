@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "whoami.exe",
     [
       "whoami.exe",
       "lwhoami.exe"

@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "split.exe",
     [
       "split.exe",
       "lsplit.exe"

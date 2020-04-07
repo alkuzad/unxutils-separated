@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "pwd.exe",
     [
       "pwd.exe",
       "lpwd.exe"

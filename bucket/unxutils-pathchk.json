@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "pathchk.exe",
     [
       "pathchk.exe",
       "lpathchk.exe"

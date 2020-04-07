@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "sed.exe",
     [
       "sed.exe",
       "lsed.exe"

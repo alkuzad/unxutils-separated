@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "gzip.exe",
     [
       "gzip.exe",
       "lgzip.exe"

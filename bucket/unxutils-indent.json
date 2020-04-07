@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "indent.exe",
     [
       "indent.exe",
       "lindent.exe"

@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "cat.exe",
     [
       "cat.exe",
       "lcat.exe"

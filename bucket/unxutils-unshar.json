@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "unshar.exe",
     [
       "unshar.exe",
       "lunshar.exe"

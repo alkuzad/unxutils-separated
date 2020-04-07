@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "gsar.exe",
     [
       "gsar.exe",
       "lgsar.exe"

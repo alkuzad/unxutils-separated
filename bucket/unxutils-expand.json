@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "expand.exe",
     [
       "expand.exe",
       "lexpand.exe"

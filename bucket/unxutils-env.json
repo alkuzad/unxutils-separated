@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "env.exe",
     [
       "env.exe",
       "lenv.exe"

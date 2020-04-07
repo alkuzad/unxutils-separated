@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "mv.exe",
     [
       "mv.exe",
       "lmv.exe"

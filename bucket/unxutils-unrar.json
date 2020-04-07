@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "unrar.exe",
     [
       "unrar.exe",
       "lunrar.exe"

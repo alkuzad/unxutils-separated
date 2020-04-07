@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "rman.exe",
     [
       "rman.exe",
       "lrman.exe"

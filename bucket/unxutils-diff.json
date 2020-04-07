@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "diff.exe",
     [
       "diff.exe",
       "ldiff.exe"

@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "tar.exe",
     [
       "tar.exe",
       "ltar.exe"

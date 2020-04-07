@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "ptx.exe",
     [
       "ptx.exe",
       "lptx.exe"

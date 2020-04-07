@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "uniq.exe",
     [
       "uniq.exe",
       "luniq.exe"

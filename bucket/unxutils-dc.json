@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "dc.exe",
     [
       "dc.exe",
       "ldc.exe"

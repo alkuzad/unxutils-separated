@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "rmdir.exe",
     [
       "rmdir.exe",
       "lrmdir.exe"

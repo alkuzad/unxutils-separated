@@ -36,7 +36,7 @@ def binary_name(binary_path: str):
 
 def single_binary_content(source_json: dict, binary: Binary):
     new_json = copy(source_json)
-    new_json['bin'] = [ [binary.name, f"l{binary.name}"] ]
+    new_json['bin'] = [ binary.name, [binary.name, f"l{binary.name}"] ]
     new_json['hash'] = generate_sha256(f"unxutils\\{binary.path}")
     new_json['url'] = f"https://github.com/alkuzad/unxutils-separated/releases/download/2007.03.01/{binary.name}"
     new_json['description'] = f"{source_json['description']} - only {binary.name}"

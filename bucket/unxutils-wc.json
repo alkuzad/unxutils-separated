@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "wc.exe",
     [
       "wc.exe",
       "lwc.exe"

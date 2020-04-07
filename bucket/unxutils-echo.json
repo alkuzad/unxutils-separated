@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "echo.exe",
     [
       "echo.exe",
       "lecho.exe"

@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "makedepend.exe",
     [
       "makedepend.exe",
       "lmakedepend.exe"

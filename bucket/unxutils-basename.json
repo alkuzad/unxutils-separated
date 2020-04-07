@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "basename.exe",
     [
       "basename.exe",
       "lbasename.exe"

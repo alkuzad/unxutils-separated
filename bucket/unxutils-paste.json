@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "paste.exe",
     [
       "paste.exe",
       "lpaste.exe"

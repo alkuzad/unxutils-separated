@@ -10,6 +10,7 @@
     "usr\\local\\wbin"
   ],
   "bin": [
+    "sum.exe",
     [
       "sum.exe",
       "lsum.exe"
