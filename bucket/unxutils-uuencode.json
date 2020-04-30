@@ -13,8 +13,7 @@
     "uuencode.exe",
     [
       "uuencode.exe",
-      "luuencode.exe",
-      "luuencode.exe"
+      "luuencode"
     ]
   ]
 }

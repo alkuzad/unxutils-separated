@@ -13,8 +13,7 @@
     "uudecode.exe",
     [
       "uudecode.exe",
-      "luudecode.exe",
-      "luudecode.exe"
+      "luudecode"
     ]
   ]
 }

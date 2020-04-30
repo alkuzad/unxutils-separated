@@ -13,8 +13,7 @@
     "unshar.exe",
     [
       "unshar.exe",
-      "lunshar.exe",
-      "lunshar.exe"
+      "lunshar"
     ]
   ]
 }

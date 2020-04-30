@@ -13,8 +13,7 @@
     "chgrp.exe",
     [
       "chgrp.exe",
-      "lchgrp.exe",
-      "lchgrp.exe"
+      "lchgrp"
     ]
   ]
 }

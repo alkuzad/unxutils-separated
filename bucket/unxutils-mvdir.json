@@ -13,8 +13,7 @@
     "mvdir.exe",
     [
       "mvdir.exe",
-      "lmvdir.exe",
-      "lmvdir.exe"
+      "lmvdir"
     ]
   ]
 }

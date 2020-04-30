@@ -13,8 +13,7 @@
     "echo.exe",
     [
       "echo.exe",
-      "lecho.exe",
-      "lecho.exe"
+      "lecho"
     ]
   ]
 }

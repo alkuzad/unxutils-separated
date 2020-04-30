@@ -13,8 +13,7 @@
     "od.exe",
     [
       "od.exe",
-      "lod.exe",
-      "lod.exe"
+      "lod"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "gzip.exe",
     [
       "gzip.exe",
-      "lgzip.exe",
-      "lgzip.exe"
+      "lgzip"
     ]
   ]
 }

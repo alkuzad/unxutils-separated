@@ -13,8 +13,7 @@
     "seq.exe",
     [
       "seq.exe",
-      "lseq.exe",
-      "lseq.exe"
+      "lseq"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "touch.exe",
     [
       "touch.exe",
-      "ltouch.exe",
-      "ltouch.exe"
+      "ltouch"
     ]
   ]
 }

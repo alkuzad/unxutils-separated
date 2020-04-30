@@ -13,8 +13,7 @@
     "chmod.exe",
     [
       "chmod.exe",
-      "lchmod.exe",
-      "lchmod.exe"
+      "lchmod"
     ]
   ]
 }

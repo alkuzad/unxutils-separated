@@ -13,8 +13,7 @@
     "cksum.exe",
     [
       "cksum.exe",
-      "lcksum.exe",
-      "lcksum.exe"
+      "lcksum"
     ]
   ]
 }

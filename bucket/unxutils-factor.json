@@ -13,8 +13,7 @@
     "factor.exe",
     [
       "factor.exe",
-      "lfactor.exe",
-      "lfactor.exe"
+      "lfactor"
     ]
   ]
 }

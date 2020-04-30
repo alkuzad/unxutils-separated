@@ -13,8 +13,7 @@
     "wc.exe",
     [
       "wc.exe",
-      "lwc.exe",
-      "lwc.exe"
+      "lwc"
     ]
   ]
 }

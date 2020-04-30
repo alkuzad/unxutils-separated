@@ -13,8 +13,7 @@
     "which.exe",
     [
       "which.exe",
-      "lwhich.exe",
-      "lwhich.exe"
+      "lwhich"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "bzip2.exe",
     [
       "bzip2.exe",
-      "lbzip2.exe",
-      "lbzip2.exe"
+      "lbzip2"
     ]
   ]
 }

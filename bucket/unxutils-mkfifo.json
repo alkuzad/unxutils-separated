@@ -13,8 +13,7 @@
     "mkfifo.exe",
     [
       "mkfifo.exe",
-      "lmkfifo.exe",
-      "lmkfifo.exe"
+      "lmkfifo"
     ]
   ]
 }

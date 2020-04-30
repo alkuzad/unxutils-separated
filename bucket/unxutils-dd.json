@@ -13,8 +13,7 @@
     "dd.exe",
     [
       "dd.exe",
-      "ldd.exe",
-      "ldd.exe"
+      "ldd"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "find.exe",
     [
       "find.exe",
-      "lfind.exe",
-      "lfind.exe"
+      "lfind"
     ]
   ]
 }

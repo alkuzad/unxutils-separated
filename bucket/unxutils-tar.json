@@ -13,8 +13,7 @@
     "tar.exe",
     [
       "tar.exe",
-      "ltar.exe",
-      "ltar.exe"
+      "ltar"
     ]
   ]
 }

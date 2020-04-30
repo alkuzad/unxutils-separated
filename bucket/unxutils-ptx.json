@@ -13,8 +13,7 @@
     "ptx.exe",
     [
       "ptx.exe",
-      "lptx.exe",
-      "lptx.exe"
+      "lptx"
     ]
   ]
 }

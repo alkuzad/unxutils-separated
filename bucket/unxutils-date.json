@@ -13,8 +13,7 @@
     "date.exe",
     [
       "date.exe",
-      "ldate.exe",
-      "ldate.exe"
+      "ldate"
     ]
   ]
 }

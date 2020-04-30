@@ -13,8 +13,7 @@
     "printenv.exe",
     [
       "printenv.exe",
-      "lprintenv.exe",
-      "lprintenv.exe"
+      "lprintenv"
     ]
   ]
 }

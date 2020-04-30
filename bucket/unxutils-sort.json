@@ -13,8 +13,7 @@
     "sort.exe",
     [
       "sort.exe",
-      "lsort.exe",
-      "lsort.exe"
+      "lsort"
     ]
   ]
 }

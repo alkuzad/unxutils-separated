@@ -13,8 +13,7 @@
     "logname.exe",
     [
       "logname.exe",
-      "llogname.exe",
-      "llogname.exe"
+      "llogname"
     ]
   ]
 }

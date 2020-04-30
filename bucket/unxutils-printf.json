@@ -13,8 +13,7 @@
     "printf.exe",
     [
       "printf.exe",
-      "lprintf.exe",
-      "lprintf.exe"
+      "lprintf"
     ]
   ]
 }

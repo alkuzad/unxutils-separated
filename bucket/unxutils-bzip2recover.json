@@ -13,8 +13,7 @@
     "bzip2recover.exe",
     [
       "bzip2recover.exe",
-      "lbzip2recover.exe",
-      "lbzip2recover.exe"
+      "lbzip2recover"
     ]
   ]
 }

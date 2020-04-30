@@ -13,8 +13,7 @@
     "sed.exe",
     [
       "sed.exe",
-      "lsed.exe",
-      "lsed.exe"
+      "lsed"
     ]
   ]
 }

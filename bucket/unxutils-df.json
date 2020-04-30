@@ -13,8 +13,7 @@
     "df.exe",
     [
       "df.exe",
-      "ldf.exe",
-      "ldf.exe"
+      "ldf"
     ]
   ]
 }

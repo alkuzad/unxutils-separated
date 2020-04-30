@@ -13,8 +13,7 @@
     "shar.exe",
     [
       "shar.exe",
-      "lshar.exe",
-      "lshar.exe"
+      "lshar"
     ]
   ]
 }

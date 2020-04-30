@@ -13,8 +13,7 @@
     "fmt.exe",
     [
       "fmt.exe",
-      "lfmt.exe",
-      "lfmt.exe"
+      "lfmt"
     ]
   ]
 }

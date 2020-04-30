@@ -13,8 +13,7 @@
     "tac.exe",
     [
       "tac.exe",
-      "ltac.exe",
-      "ltac.exe"
+      "ltac"
     ]
   ]
 }

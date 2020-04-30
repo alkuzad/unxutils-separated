@@ -13,8 +13,7 @@
     "man.exe",
     [
       "man.exe",
-      "lman.exe",
-      "lman.exe"
+      "lman"
     ]
   ]
 }

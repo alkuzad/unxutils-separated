@@ -13,8 +13,7 @@
     "uname.exe",
     [
       "uname.exe",
-      "luname.exe",
-      "luname.exe"
+      "luname"
     ]
   ]
 }

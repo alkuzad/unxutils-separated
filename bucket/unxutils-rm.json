@@ -13,8 +13,7 @@
     "rm.exe",
     [
       "rm.exe",
-      "lrm.exe",
-      "lrm.exe"
+      "lrm"
     ]
   ]
 }

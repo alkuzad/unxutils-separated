@@ -4,6 +4,8 @@ from pathlib import WindowsPath
 import hashlib
 from subprocess import run, PIPE
 
+from concurrent.futures import ThreadPoolExecutor, wait
+
 class Binary():
 
     def __init__(self, binary_path: str):
@@ -31,29 +33,42 @@ def generate_sha256(binary_path: str):
         bytes = f.read()
         return hashlib.sha256(bytes).hexdigest()
 
-def binary_name(binary_path: str):
-    return WindowsPath(binary_path).stem
-
 def single_binary_content(source_json: dict, binary: Binary):
     new_json = copy(source_json)
-    new_json['bin'] = [ binary.name, [binary.name, f"l{binary.name}", f"l{binary.name}"] ]
+    new_json['bin'] = [ binary.name, [binary.name, f"l{binary.name_without_extension}"] ]
     new_json['hash'] = generate_sha256(f"unxutils\\{binary.path}")
     new_json['url'] = f"https://github.com/alkuzad/unxutils-separated/releases/download/2007.03.01/{binary.name}"
     new_json['description'] = f"{source_json['description']} - only {binary.name}"
     return new_json
 
-def separate(source: WindowsPath = WindowsPath('unxutils.json'), target: WindowsPath = WindowsPath('bucket'), sha256target: WindowsPath = WindowsPath('sha256sums')):
+class BinaryWriter():
+
+    def __init__(self, source_json, target):
+        self.source_json = source_json
+        self.target = target
+        if not target.exists():
+            target.mkdir()
+
+    def process_binary(self, binary):
+        if isinstance(binary, list):
+            return
+        print("Processing {}".format(binary))
+
+        binary = Binary(binary)
+        target_file = WindowsPath(self.target, f"unxutils-{binary.name_without_extension}.json")
+        target_content = single_binary_content(self.source_json, binary)
+        target_file.write_text(json.dumps(target_content, indent=2))
+
+def separate(source: WindowsPath = WindowsPath('unxutils.json'), target: WindowsPath = WindowsPath('bucket')):
     source = WindowsPath(source)
     source_data = source.read_text()
     source_json = json.loads(source_data)
 
-    for binary in source_json['bin']:
-            if isinstance(binary, list):
-                continue
-            binary = Binary(binary)
-            target_file = WindowsPath(target, f"unxutils-{binary.name_without_extension}.json")
-            target_content = single_binary_content(source_json, binary)
-            target_file.write_text(json.dumps(target_content, indent=2))
+    binary_writer = BinaryWriter(source_json, target)
+    with ThreadPoolExecutor() as executor:
+        futures = executor.map(binary_writer.process_binary, source_json['bin'])
+        for _ in futures:
+            pass
 
 def main():
     separate()

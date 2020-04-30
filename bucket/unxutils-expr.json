@@ -13,8 +13,7 @@
     "expr.exe",
     [
       "expr.exe",
-      "lexpr.exe",
-      "lexpr.exe"
+      "lexpr"
     ]
   ]
 }

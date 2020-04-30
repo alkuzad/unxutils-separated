@@ -13,8 +13,7 @@
     "flex.exe",
     [
       "flex.exe",
-      "lflex.exe",
-      "lflex.exe"
+      "lflex"
     ]
   ]
 }

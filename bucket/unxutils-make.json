@@ -13,8 +13,7 @@
     "make.exe",
     [
       "make.exe",
-      "lmake.exe",
-      "lmake.exe"
+      "lmake"
     ]
   ]
 }

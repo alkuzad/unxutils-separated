@@ -13,8 +13,7 @@
     "m4.exe",
     [
       "m4.exe",
-      "lm4.exe",
-      "lm4.exe"
+      "lm4"
     ]
   ]
 }

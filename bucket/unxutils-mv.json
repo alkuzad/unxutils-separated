@@ -13,8 +13,7 @@
     "mv.exe",
     [
       "mv.exe",
-      "lmv.exe",
-      "lmv.exe"
+      "lmv"
     ]
   ]
 }

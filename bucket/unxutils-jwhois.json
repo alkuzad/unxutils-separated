@@ -13,8 +13,7 @@
     "jwhois.exe",
     [
       "jwhois.exe",
-      "ljwhois.exe",
-      "ljwhois.exe"
+      "ljwhois"
     ]
   ]
 }

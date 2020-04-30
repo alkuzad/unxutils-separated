@@ -13,8 +13,7 @@
     "expand.exe",
     [
       "expand.exe",
-      "lexpand.exe",
-      "lexpand.exe"
+      "lexpand"
     ]
   ]
 }

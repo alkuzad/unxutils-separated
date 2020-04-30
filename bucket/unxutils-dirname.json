@@ -13,8 +13,7 @@
     "dirname.exe",
     [
       "dirname.exe",
-      "ldirname.exe",
-      "ldirname.exe"
+      "ldirname"
     ]
   ]
 }

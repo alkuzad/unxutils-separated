@@ -13,8 +13,7 @@
     "pr.exe",
     [
       "pr.exe",
-      "lpr.exe",
-      "lpr.exe"
+      "lpr"
     ]
   ]
 }

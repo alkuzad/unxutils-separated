@@ -13,8 +13,7 @@
     "sh.exe",
     [
       "sh.exe",
-      "lsh.exe",
-      "lsh.exe"
+      "lsh"
     ]
   ]
 }

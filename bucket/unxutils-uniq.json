@@ -13,8 +13,7 @@
     "uniq.exe",
     [
       "uniq.exe",
-      "luniq.exe",
-      "luniq.exe"
+      "luniq"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "gawk.exe",
     [
       "gawk.exe",
-      "lgawk.exe",
-      "lgawk.exe"
+      "lgawk"
     ]
   ]
 }

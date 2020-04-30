@@ -13,8 +13,7 @@
     "fgrep.exe",
     [
       "fgrep.exe",
-      "lfgrep.exe",
-      "lfgrep.exe"
+      "lfgrep"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "cut.exe",
     [
       "cut.exe",
-      "lcut.exe",
-      "lcut.exe"
+      "lcut"
     ]
   ]
 }

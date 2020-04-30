@@ -13,8 +13,7 @@
     "tee.exe",
     [
       "tee.exe",
-      "ltee.exe",
-      "ltee.exe"
+      "ltee"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "zsh.exe",
     [
       "zsh.exe",
-      "lzsh.exe",
-      "lzsh.exe"
+      "lzsh"
     ]
   ]
 }

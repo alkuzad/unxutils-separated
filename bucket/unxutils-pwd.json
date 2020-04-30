@@ -13,8 +13,7 @@
     "pwd.exe",
     [
       "pwd.exe",
-      "lpwd.exe",
-      "lpwd.exe"
+      "lpwd"
     ]
   ]
 }

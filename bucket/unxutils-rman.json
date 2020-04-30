@@ -13,8 +13,7 @@
     "rman.exe",
     [
       "rman.exe",
-      "lrman.exe",
-      "lrman.exe"
+      "lrman"
     ]
   ]
 }

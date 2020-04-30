@@ -13,8 +13,7 @@
     "basename.exe",
     [
       "basename.exe",
-      "lbasename.exe",
-      "lbasename.exe"
+      "lbasename"
     ]
   ]
 }

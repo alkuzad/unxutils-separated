@@ -13,8 +13,7 @@
     "compress.exe",
     [
       "compress.exe",
-      "lcompress.exe",
-      "lcompress.exe"
+      "lcompress"
     ]
   ]
 }

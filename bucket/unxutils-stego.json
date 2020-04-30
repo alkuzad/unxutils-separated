@@ -13,8 +13,7 @@
     "stego.exe",
     [
       "stego.exe",
-      "lstego.exe",
-      "lstego.exe"
+      "lstego"
     ]
   ]
 }

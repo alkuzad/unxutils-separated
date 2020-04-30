@@ -13,8 +13,7 @@
     "pathchk.exe",
     [
       "pathchk.exe",
-      "lpathchk.exe",
-      "lpathchk.exe"
+      "lpathchk"
     ]
   ]
 }

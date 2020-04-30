@@ -13,8 +13,7 @@
     "join.exe",
     [
       "join.exe",
-      "ljoin.exe",
-      "ljoin.exe"
+      "ljoin"
     ]
   ]
 }

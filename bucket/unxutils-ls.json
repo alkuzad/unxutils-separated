@@ -13,8 +13,7 @@
     "ls.exe",
     [
       "ls.exe",
-      "lls.exe",
-      "lls.exe"
+      "lls"
     ]
   ]
 }

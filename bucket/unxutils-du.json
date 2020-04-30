@@ -13,8 +13,7 @@
     "du.exe",
     [
       "du.exe",
-      "ldu.exe",
-      "ldu.exe"
+      "ldu"
     ]
   ]
 }

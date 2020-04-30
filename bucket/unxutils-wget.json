@@ -13,8 +13,7 @@
     "wget.exe",
     [
       "wget.exe",
-      "lwget.exe",
-      "lwget.exe"
+      "lwget"
     ]
   ]
 }

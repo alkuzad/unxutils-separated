@@ -13,8 +13,7 @@
     "nl.exe",
     [
       "nl.exe",
-      "lnl.exe",
-      "lnl.exe"
+      "lnl"
     ]
   ]
 }

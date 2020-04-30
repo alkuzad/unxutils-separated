@@ -13,8 +13,7 @@
     "dircolors.exe",
     [
       "dircolors.exe",
-      "ldircolors.exe",
-      "ldircolors.exe"
+      "ldircolors"
     ]
   ]
 }

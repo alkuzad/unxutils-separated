@@ -13,8 +13,7 @@
     "sdiff.exe",
     [
       "sdiff.exe",
-      "lsdiff.exe",
-      "lsdiff.exe"
+      "lsdiff"
     ]
   ]
 }

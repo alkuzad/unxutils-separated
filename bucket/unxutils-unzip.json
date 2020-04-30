@@ -13,8 +13,7 @@
     "unzip.exe",
     [
       "unzip.exe",
-      "lunzip.exe",
-      "lunzip.exe"
+      "lunzip"
     ]
   ]
 }

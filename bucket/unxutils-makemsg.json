@@ -13,8 +13,7 @@
     "makemsg.exe",
     [
       "makemsg.exe",
-      "lmakemsg.exe",
-      "lmakemsg.exe"
+      "lmakemsg"
     ]
   ]
 }

@@ -13,8 +13,7 @@
     "paste.exe",
     [
       "paste.exe",
-      "lpaste.exe",
-      "lpaste.exe"
+      "lpaste"
     ]
   ]
 }
